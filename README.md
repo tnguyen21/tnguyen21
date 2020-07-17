@@ -3,12 +3,12 @@ I'm a student studying Computer Science and Mathematics at Drexel University. In
 
 ### 🔭 I’m currently working on ...
 - Web Development with [Rise First](https://risefirst.org/)
-- Designing Data-Intensive Application Study Group with [Summer of Shipping](https://summerofshipping.com/)
+
 
 ### 🌱 I’m currently learning ...
 - [Serverless Stack](https://serverless-stack.com/)
 - Systems Programming (C)
-- [Designing Data-Intensive Applications by Martin Kleppman](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable-ebook/dp/B06XPJML5D)
+- Designing Data-Intensive Application Study Group with [Summer of Shipping](https://summerofshipping.com/)
 - Business (reading [The Personal MBA by Josh Kaufman](https://personalmba.com/))
 
 ### 📫 How to reach me: ...
