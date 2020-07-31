@@ -14,10 +14,6 @@ I'm a student studying Computer Science and Mathematics at Drexel University. In
 ### 📫 How to reach me: ...
 - Twitter [@tommy_b_nguyen](https://twitter.com/tommy_b_nguyen)
 - LinkedIn [@tommybnguyen](https://www.linkedin.com/in/tommybnguyen/)
-
-<img src="https://github-readme-stats.vercel.app/api?username=tnguyen21&show_icons=true" alt="tnguyen21" />
-
-
 <!--
 **tnguyen21/tnguyen21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
