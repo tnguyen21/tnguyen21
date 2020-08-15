@@ -9,7 +9,6 @@ I'm a student studying Computer Science and Mathematics at Drexel University. In
 - [FullStack Open 2020](https://fullstackopen.com/)
 - Systems Programming (C)
 - Designing Data-Intensive Application Study Group with [Summer of Shipping](https://summerofshipping.com/)
-- Business (reading [The Personal MBA by Josh Kaufman](https://personalmba.com/))
 
 ### 📫 How to reach me: ...
 - Twitter [@tommy_b_nguyen](https://twitter.com/tommy_b_nguyen)
