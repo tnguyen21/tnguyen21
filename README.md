@@ -1,12 +1,12 @@
 ### Hi there 👋, I'm Tommy [he/him/his]
-I'm a student studying Computer Science and Mathematics at Drexel University. In my spare time I like to write. You can find my some of my work on my [newsletter](https://overthinking.substack.com/) and [blog](https://tnguyen21.github.io/).
+I'm a student studying Computer Science and Mathematics at Drexel University. In my spare time I like to write. You can find my some of my work on my [newsletter](https://overthinking.substack.com/).
 
 ### 🔭 I’m currently working on ...
 - Web Development with [Rise First](https://risefirst.org/)
 
 
 ### 🌱 I’m currently learning ...
-- [Serverless Stack](https://serverless-stack.com/)
+- [FullStack Open 2020](https://fullstackopen.com/)
 - Systems Programming (C)
 - Designing Data-Intensive Application Study Group with [Summer of Shipping](https://summerofshipping.com/)
 - Business (reading [The Personal MBA by Josh Kaufman](https://personalmba.com/))
