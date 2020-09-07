@@ -6,7 +6,6 @@ I'm a student studying Computer Science and Mathematics at Drexel University. In
 
 ### 🧠 I’m currently learning ...
 - React, GraphQL, and more with [FullStack Open 2020](https://fullstackopen.com/)
-- Systems Programming (C) in CS 283: Systems Programming with [Brian Stuart](https://www.cs.drexel.edu/~bls96/)
 - Designing Data-Intensive Application with [Summer of Shipping](https://summerofshipping.com/)
 
 ### 📫 How to reach me: ...
