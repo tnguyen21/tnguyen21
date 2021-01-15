@@ -19,6 +19,7 @@ I'm always happy to set-up a call if you just shoot me a DM 😊
 ### 📜 In the past I've worked at ...
 - [SASE Drexel](https://sase-drexel.weebly.com/) as webmaster helping to maintain their [websites](https://sase-drexel.github.io/mentorship-profiles/)
 - [Rise First](https://risefirst.org/) as web developer building out content pages for their website
+- [Drexel Wireless Systems Laboratory](https://research.coe.drexel.edu/ece/dwsl/) as an undergrad researcher
 - Vanguard (Contracted) as an IT Developer intern where I helped automated middle-office processes using Python and Java
 - [Code for Chicago](https://codeforchicago.org/) and [Code for Philly](https://codeforchicago.org/) making small contributions to front-end projects
 
