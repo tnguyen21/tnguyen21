@@ -7,7 +7,7 @@ I'm a student studying Computer Science and Mathematics at Drexel University. In
 - Myself 😀
 
 ### 🤚 I’m looking for help with ...
-- Internship opportunities for Fall/Winter 2021-2022
+- Internship opportunities for Summer/Fall/Winter 2021-2022
 - Data Struct & Algs for [competitive programming](https://www.youtube.com/watch?v=ueNT-w7Oluw) and technical interviews
 
 ### 📫 How to reach me ...
