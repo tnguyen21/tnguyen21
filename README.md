@@ -8,7 +8,6 @@ I'm a student studying Computer Science and Mathematics at Drexel University. In
 
 ### 🤚 I’m looking for help with ...
 - Internship opportunities for Summer/Fall/Winter 2021-2022
-- Data Struct & Algs for [competitive programming](https://www.youtube.com/watch?v=ueNT-w7Oluw) and technical interviews
 
 ### 📫 How to reach me ...
 - Twitter [@tommy_b_nguyen](https://twitter.com/tommy_b_nguyen)
