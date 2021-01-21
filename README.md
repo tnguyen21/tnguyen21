@@ -2,7 +2,7 @@
 I'm a student studying Computer Science and Mathematics at Drexel University. In my spare time I like to write. You can find my some of my work on my [personal site](https://tommynguyen.dev/).
 
 ### 🛠 I’m currently working on ...
-- Reducing food waste from grocery stores and resteraunts with [@Sharing Excess](https://www.sharingexcess.com/)
+- Building https://sharingexcess.web.app/ to help reduce food waste from grocery stores and restaurants with [@Sharing Excess](https://www.sharingexcess.com/)
 - Building tools to help first-generation/low-income college students [@Rise First](https://risefirst.org/)
 - Myself 😀
 
