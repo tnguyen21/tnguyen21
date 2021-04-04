@@ -2,8 +2,9 @@
 I'm a student studying Computer Science and Mathematics at Drexel University. In my spare time I like to write. You can find my some of my work on my [personal site](https://tommynguyen.dev/).
 
 ### 🛠 I’m currently working on ...
-- Building https://sharingexcess.web.app/ to help reduce food waste from grocery stores and restaurants with [@Sharing Excess](https://www.sharingexcess.com/)
+
 - Building tools to help first-generation/low-income college students [@Rise First](https://risefirst.org/)
+- Drexel University Classes
 - Myself 😀
 
 ### 🤚 I’m looking for help with ...
@@ -16,6 +17,7 @@ I'm a student studying Computer Science and Mathematics at Drexel University. In
 I'm always happy to set-up a call if you just shoot me a DM 😊
 
 ### 📜 In the past I've worked at ...
+- [Sharing Excess]https://sharingexcess.web.app/ to help reduce food waste from grocery stores and restaurants
 - [SASE Drexel](https://sase-drexel.weebly.com/) as webmaster helping to maintain their [websites](https://sase-drexel.github.io/mentorship-profiles/)
 - [Rise First](https://risefirst.org/) as a web developer building out content pages for their website
 - [Drexel Wireless Systems Laboratory](https://research.coe.drexel.edu/ece/dwsl/) as an undergrad researcher
