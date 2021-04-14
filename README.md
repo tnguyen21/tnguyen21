@@ -17,7 +17,7 @@ I'm a student studying Computer Science and Mathematics at Drexel University. In
 I'm always happy to set-up a call if you just shoot me a DM 😊
 
 ### 📜 In the past I've worked at ...
-- [Sharing Excess]https://sharingexcess.web.app/ to help reduce food waste from grocery stores and restaurants
+- [Sharing Excess](https://sharingexcess.web.app/) to help reduce food waste from grocery stores and restaurants
 - [SASE Drexel](https://sase-drexel.weebly.com/) as webmaster helping to maintain their [websites](https://sase-drexel.github.io/mentorship-profiles/)
 - [Rise First](https://risefirst.org/) as a web developer building out content pages for their website
 - [Drexel Wireless Systems Laboratory](https://research.coe.drexel.edu/ece/dwsl/) as an undergrad researcher
