@@ -3,9 +3,7 @@ I'm a student studying Computer Science and Mathematics at Drexel University. In
 
 ### 🛠 I’m currently working on ...
 
-- Building tools to help first-generation/low-income college students [@Rise First](https://risefirst.org/)
-- Drexel University Classes
-- Myself 😀
+- Making U.S. digital government services better as a Software Engineering Fellow with [Coding it Forward](https://www.codingitforward.com/civic-digital-fellowship/)
 
 ### 🤚 I’m looking for help with ...
 - Internship opportunities for Fall/Winter 2021-2022
@@ -18,8 +16,8 @@ I'm always happy to set-up a call if you just shoot me a DM 😊
 
 ### 📜 In the past I've worked at ...
 - [Sharing Excess](https://sharingexcess.web.app/) to help reduce food waste from grocery stores and restaurants
-- [SASE Drexel](https://sase-drexel.weebly.com/) as webmaster helping to maintain their [websites](https://sase-drexel.github.io/mentorship-profiles/)
 - [Rise First](https://risefirst.org/) as a web developer building out content pages for their website
+- [SASE Drexel](https://sase-drexel.weebly.com/) as webmaster helping to maintain their [websites](https://sase-drexel.github.io/mentorship-profiles/)
 - [Drexel Wireless Systems Laboratory](https://research.coe.drexel.edu/ece/dwsl/) as an undergrad researcher
 - Vanguard (Contracted) as an IT Developer intern where I helped automated middle-office processes using Python and Java
 - [Code for Chicago](https://codeforchicago.org/) and [Code for Philly](https://codeforchicago.org/) making small contributions to front-end projects
