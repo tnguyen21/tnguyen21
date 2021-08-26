@@ -3,7 +3,7 @@ I'm a student studying Computer Science and Mathematics at Drexel University. In
 
 ### 🛠 I’m currently working on ...
 
-- Making U.S. digital government services better as a Software Engineering Fellow with [Coding it Forward](https://www.codingitforward.com/civic-digital-fellowship/)
+- 🌿 nothing 🌿 -- have a nice break before I start my next role as a Jr. Machine Learning Engineer @ [Nuuly](https://www.nuuly.com/)
 
 
 ### 📫 How to reach me ...
@@ -13,6 +13,7 @@ I'm a student studying Computer Science and Mathematics at Drexel University. In
 I'm always happy to set-up a call if you just shoot me a DM 😊
 
 ### 📜 In the past I've worked at ...
+- U.S. Census Bureau as a [Software Engineering Civic Digital Fellow](https://www.codingitforward.com/civic-digital-fellowship/) developing a content-first API for educational material created @ the USCB
 - [Sharing Excess](https://sharingexcess.web.app/) to help reduce food waste from grocery stores and restaurants
 - [Rise First](https://risefirst.org/) as a web developer building out content pages for their website
 - Vanguard (Contracted) as an IT Developer intern where I helped automated middle-office processes using Python and Java
