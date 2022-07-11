@@ -4,7 +4,7 @@ I'm a student studying Computer Science and Mathematics at Drexel University. In
 ### 🛠 I’m currently working on ...
 
 - builing ML infrastructure as a Jr. Machine Learning Engineer @ [Nuuly](https://www.nuuly.com/)
-- a research project with [Dr. Hegler Tissot](https://scholar.google.com/citations?user=W9zlSKoAAAAJ) based on a [research paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=W9zlSKoAAAAJ&citation_for_view=W9zlSKoAAAAJ:W7OEmFMy1HYC) he published in 2018
+- finishing my degree 🎓
 
 
 ### 📫 How to reach me ...
