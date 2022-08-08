@@ -11,8 +11,6 @@ I'm a student studying Computer Science and Mathematics at Drexel University. In
 - Twitter [@tommy_b_nguyen](https://twitter.com/tommy_b_nguyen)
 - LinkedIn [@tommybnguyen](https://www.linkedin.com/in/tommybnguyen/)
 
-I'm always happy to set-up a call if you just shoot me a DM 😊
-
 ### 📜 In the past I've worked at ...
 - U.S. Census Bureau as a [Software Engineering Civic Digital Fellow](https://www.codingitforward.com/civic-digital-fellowship/) developing a content-first API for educational material created @ the USCB
 - [Sharing Excess](https://sharingexcess.web.app/) to help reduce food waste from grocery stores and restaurants
