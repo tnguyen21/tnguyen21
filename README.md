@@ -5,6 +5,7 @@ I'm a student studying Computer Science and Mathematics at Drexel University. In
 
 - builing ML infrastructure as a Jr. Machine Learning Engineer @ [Nuuly](https://www.nuuly.com/)
 - finishing my degree 🎓
+- occasionally streaming on [twitch.tv/im_dustee](https://www.twitch.tv/im_dustee). sometimes coding, mostly games 🎮
 
 
 ### 📫 How to reach me ...
