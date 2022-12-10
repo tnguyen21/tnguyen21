@@ -20,7 +20,6 @@ I'm a student studying Computer Science and Mathematics at Drexel University. In
 
 ### ☕ Fun facts:
 - Published in [Kernel Magazine](https://www.kernelmag.io/) with [a piece about tech and sustainability](https://www.kernelmag.io/2/digital-transformation-degradation)
-- Occasionally streaming on [twitch.tv/im_dustee](https://www.twitch.tv/im_dustee). sometimes coding, mostly games 🎮
 
 <!--
 **tnguyen21/tnguyen21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
