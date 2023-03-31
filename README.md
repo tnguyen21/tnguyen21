@@ -3,7 +3,7 @@ I'm a student studying Computer Science and Mathematics at Drexel University. In
 
 ### 🛠 I’m currently working on ...
 
-- builing ML infrastructure as a Jr. Machine Learning Engineer @ [Nuuly](https://www.nuuly.com/)
+- builing ML infrastructure as a Machine Learning Engineer @ [Nuuly](https://www.nuuly.com/)
 
 ### 📫 How to reach me ...
 - Twitter [@tommy_b_nguyen](https://twitter.com/tommy_b_nguyen)
