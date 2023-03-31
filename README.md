@@ -13,7 +13,7 @@ I'm a student studying Computer Science and Mathematics at Drexel University. In
 - U.S. Census Bureau as a [Software Engineering Civic Digital Fellow](https://www.codingitforward.com/civic-digital-fellowship/) developing a content-first API for educational material created @ the USCB
 - [Sharing Excess](https://sharingexcess.web.app/) to help reduce food waste from grocery stores and restaurants
 - [Rise First](https://risefirst.org/) as a web developer building out content pages for their website
-- Vanguard (Contracted) as an IT Developer intern where I helped automated middle-office processes using Python and Java
+- Vanguard (Contracted) as an IT Developer intern where I helped automate middle-office processes using Python and Java
 - [SASE Drexel](https://sase-drexel.weebly.com/) as webmaster helping to maintain their [websites](https://sase-drexel.github.io/mentorship-profiles/)
 - [Drexel Wireless Systems Laboratory](https://research.coe.drexel.edu/ece/dwsl/) as an undergrad researcher
 - [Code for Chicago](https://codeforchicago.org/) and [Code for Philly](https://codeforchicago.org/) making small contributions to front-end projects
