@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Tommy [he/him/his]
-I'm a student studying Computer Science and Mathematics at Drexel University. In my spare time I like to write. You can find my some of my work on my [personal site](https://tommynguyen.dev/).
+I'm a Machine Learning Engineer @ Nuuly. I graduated with a Bachelors of Science in Computer Science from Drexel University. In my spare time I like to write. You can find my blog @ [tommynguyen.dev](https://tommynguyen.dev/).
 
 ### 🛠 I’m currently working on ...
 
