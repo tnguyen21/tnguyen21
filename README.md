@@ -3,7 +3,7 @@ I'm a Machine Learning Engineer @ Nuuly. I graduated with a Bachelors of Science
 
 ### 🛠 I’m currently working on ...
 
-- builing ML infrastructure, improving product recommendations, playing w/ multimodal models as a Machine Learning Engineer @ [Nuuly](https://www.nuuly.com/)
+- building ML infrastructure, improving product recommendations, playing w/ multimodal models as a Machine Learning Engineer @ [Nuuly](https://www.nuuly.com/)
 
 ### 📫 How to reach me ...
 - LinkedIn [@tommybnguyen](https://www.linkedin.com/in/tommybnguyen/)
