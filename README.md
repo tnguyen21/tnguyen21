@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Tommy [he/him/his]
-I'm a Machine Learning Engineer @ Nuuly. I graduated with a Bachelors of Science in Computer Science from Drexel University. 
+I'm a Sr. Machine Learning Engineer @ Nuuly. I graduated with a Bachelors of Science in Computer Science from Drexel University. 
 
 ### 🛠 I’m currently working on ...
 
