@@ -1,14 +1,16 @@
 ### Hi there 👋, I'm Tommy [he/him/his]
-I'm a Sr. Machine Learning Engineer @ Nuuly. I graduated with a Bachelors of Science in Computer Science from Drexel University. 
 
 ### 🛠 I’m currently working on ...
 
-- building ML infrastructure, improving product recommendations, playing w/ multimodal models @ [Nuuly](https://www.nuuly.com/)
+- resting (:bed: zzz)
 
 ### 📫 How to reach me ...
 - LinkedIn [@tommybnguyen](https://www.linkedin.com/in/tommybnguyen/)
 
 ### 📜 In the past I've worked at ...
+- [Nuuly](https://www.nuuly.com/) as a Sr. Machine Learning Engineer.
+  - During my first two years, I developed services, pipelines, and simulations to help with inventory management and logistics processing. These projects scaled from ~30k customers to ~350k customers, and saved (estimated) ~millions in shipping costs.
+  - During my last couple of years at Nuuly I took ownership of our recommendation system. Working with two other data scientists, we built a transformer-based recommendation model that improved offline recall and precision by ~50% for active subscribers, and gave us dramatic improvement for "stale" customers (who haven't rented in >2 months).
 - U.S. Census Bureau as a [Software Engineering Civic Digital Fellow](https://www.codingitforward.com/civic-digital-fellowship/) developing a content-first API for educational material created @ the USCB
 - [Sharing Excess](https://sharingexcess.web.app/) to help reduce food waste from grocery stores and restaurants
 - [Rise First](https://risefirst.org/) as a web developer building out content pages for their website
