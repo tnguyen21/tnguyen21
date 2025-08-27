@@ -2,7 +2,7 @@
 
 ### 🛠 I’m currently working on ...
 
-- resting (:bed: zzz)
+- resting (🛌 zzz)
 
 ### 📫 How to reach me ...
 - LinkedIn [@tommybnguyen](https://www.linkedin.com/in/tommybnguyen/)
