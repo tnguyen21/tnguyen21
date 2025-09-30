@@ -4,9 +4,6 @@
 
 - resting (🛌 zzz)
 
-### 📫 How to reach me ...
-- LinkedIn [@tommybnguyen](https://www.linkedin.com/in/tommybnguyen/)
-
 ### 📜 In the past I've worked at ...
 - [Nuuly](https://www.nuuly.com/) as a Sr. Machine Learning Engineer.
   - During my first two years, I developed services, pipelines, and simulations to help with inventory management and logistics processing. These projects scaled from ~30k customers to ~350k customers, and saved (estimated) ~millions in shipping costs.
