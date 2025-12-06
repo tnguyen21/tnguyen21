@@ -8,7 +8,7 @@
 - [Nuuly](https://www.nuuly.com/) as a Sr. Machine Learning Engineer.
   - During my first two years, I developed services, pipelines, and simulations to help with inventory management and logistics processing. These projects scaled from ~30k customers to ~350k customers, and saved (estimated) ~millions in shipping costs.
   - During my last couple of years at Nuuly I took ownership of our recommendation system. Working with two other data scientists, we built a transformer-based recommendation model that improved offline recall and precision by ~50% for active subscribers, and gave us dramatic improvement for "stale" customers (who haven't rented in >2 months).
-- [Sharing Excess](https://sharingexcess.web.app/) to help reduce food waste from grocery stores and restaurants
+- [Sharing Excess](https://www.sharingexcess.com/) to help reduce food waste from grocery stores and restaurants
 
 <!--
 **tnguyen21/tnguyen21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
