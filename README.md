@@ -7,11 +7,12 @@ I build fast Rust tools for Python developers and LLM agents. Interested in AI s
 ### Projects
 
 - [irradiate](https://github.com/nwyin/irradiate) — mutation testing for Python, in Rust
+- [tau](https://github.com/nwyin/tau) — minimal coding agent harness
+- [hive](https://github.com/nwyin/hive) — multi-agent coding orchestrator
+- [ruse.sh](https://github.com/nwyin/ruse.sh) - Rust port of the charm.sh TUI ecosystem
 - [pycg-rs](https://github.com/nwyin/pycg-rs) — static call graph generation for Python
 - [pycfg-rs](https://github.com/nwyin/pycfg-rs) — control flow graph generation for Python
 - [dw2md](https://github.com/nwyin/dw2md) — extract DeepWiki docs into a single LLM-ready file
-- [hive](https://github.com/nwyin/hive) — multi-agent coding orchestrator
-- [tau](https://github.com/nwyin/tau) — minimal coding agent harness
 - [takeoff-protocol](https://github.com/nwyin/takeoff-protocol) — multiplayer AI crisis simulation
 - [slop-guard](https://github.com/nwyin/slop-guard-rs) — detect AI writing patterns in prose
 
