@@ -6,7 +6,7 @@ I build fast Rust tools for Python developers and LLM agents. Interested in AI s
 
 ### Projects
 
-- [billwatch](https://github.com/nwyin/billwatch) — cached, token-efficient CLI for US state legislative data; AXI-style agent-ergonomic design
+- [billwatch](https://github.com/nwyin/billwatch) — cached, token-efficient CLI for US state legislative data; agent-ergonomic design following [AXI](https://axi.md) principles
 - [irradiate](https://github.com/nwyin/irradiate) — mutation testing for Python, in Rust
 - [tau](https://github.com/nwyin/tau) — minimal coding agent harness
 - [hive](https://github.com/nwyin/hive) — multi-agent coding orchestrator
