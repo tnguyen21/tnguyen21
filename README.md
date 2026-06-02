@@ -1,7 +1,3 @@
-### Hi, I'm Tommy
-
-I build fast Rust tools for Python developers and LLM agents. Interested in AI safety research and engineering.
-
 [nwyin.com](https://nwyin.com)
 
 ### Projects
